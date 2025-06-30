@@ -1,4 +1,6 @@
-package com.set;// Java program to demonstrate java set
+// Java program to demonstrate java set
+
+package com.set;
 
 import java.util.HashSet;
 import java.util.Set;
